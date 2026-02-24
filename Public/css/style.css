@@ -148,6 +148,11 @@ footer{
   padding-top: 20px;
 }
 
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 /* .pimg1{
   position: relative;
   background-position:center;
